@@ -47,6 +47,7 @@ Violet project is rather large, so it makes sense to reduce it to some granular 
 
 ### Phase 3 features
 
+- Add CS Wiki Recommended Class More Info if the class is listed there
 - Add support for multiple schedules
 - Add commute estimations in "My Schedule" page
 - Add shareable links to personal schedules
