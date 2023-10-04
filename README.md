@@ -16,7 +16,7 @@ Feel free to add more suggestions by opening a PR.
 
 ## Planned Fully-Fledged Project Features
 
-Here are the features that we are plan to implement in the ideal, fully-fledged implementation of the said system:
+Here are the features that we plan to implement in the ideal, fully-fledged implementation of the said system:
 
 - Class search and lookup by name, code, professor
   - Possible to filter results by term, year, school
