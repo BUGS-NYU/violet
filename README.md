@@ -54,4 +54,4 @@ Violet project is rather large, so it makes sense to reduce it to some granular 
 
 ## Implementation
 
-The **Violet** system should be the premier interface to interact with **Schedge** API and hence we should mostly focus on leveraging the existing **Schedge** functionality. We may need to implement additional server-side functionality on top of **Schedge**, but most of this project is client-side work. Hence, it makes sense to use a framework like **Next.js** that supports both client and server layers.
+The **Violet** system should be the premier interface to interact with **Schedge** API and hence we should mostly focus on leveraging the existing **Schedge** functionality. We may need to implement additional server-side functionality on top of **Schedge**, but most of this project is client-side work. Hence, it makes sense to use a framework like **Next.js** or **Remix.js** that supports both client and server layers out of the box.
