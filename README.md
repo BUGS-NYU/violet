@@ -1,8 +1,10 @@
-# Gallatin (?)
+# Violet 🟣
 
-This directory serves as the monorepo for the "Albert Replacement" a.k.a. "Gallatin" project (the name is still under consideration).This won't be a fully fledged Albert replacement, but should serve as a very handy utility that goes hand in hand with Albert system.
+This directory serves as the monorepo for the **Violet** project. This won't be a fully fledged Albert replacement, but should serve as a very handy utility that goes hand in hand with Albert system.
 
 ## Project Name
+
+**EDIT:** For now, we are settling with the **Violet** name.
 
 Currently, we are calling this project "Gallatin", however we have some doubts about this name as it is also the name of an NYU school, Gallatin School of Individualized Studies. Feel free to suggest a new name for the project. Some possible names:
 
@@ -28,7 +30,7 @@ Here are the features that we plan to implement in the ideal, fully-fledged impl
 
 ## Phasing
 
-Project is rather large, so it makes sense to reduce it to some granular implementation phases. Glossary is not well defined for how the features should be called.
+Violet project is rather large, so it makes sense to reduce it to some granular implementation phases. Glossary is not well defined for how the features should be called.
 
 ### Phase 1 features
 
@@ -51,4 +53,4 @@ Project is rather large, so it makes sense to reduce it to some granular impleme
 
 ## Implementation
 
-The "Gallatin" system should be the premier interface to interact with "Schedge" API and hence we should mostly focus on leveraging the existing "Schedge" functionality. We may need to implement additional server-side functionality on top of "Schedge", but most of this project is client-side work. Hence, it makes sense to use a framework like **Next.js** that supports both client and server layers.
+The **Violet** system should be the premier interface to interact with **Schedge** API and hence we should mostly focus on leveraging the existing **Schedge** functionality. We may need to implement additional server-side functionality on top of **Schedge**, but most of this project is client-side work. Hence, it makes sense to use a framework like **Next.js** that supports both client and server layers.
